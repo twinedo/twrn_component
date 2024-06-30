@@ -72,3 +72,12 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+
+# for testing
+.bundle/
+android/
+__tests__/
+ios/
+Gemfile
+Gemfile.lock
